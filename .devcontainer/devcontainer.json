@@ -10,7 +10,6 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "1YiB.rust-bundle",
                 "rust-lang.rust-analyzer"
             ]
         }
